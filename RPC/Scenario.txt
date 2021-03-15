@@ -1,0 +1,21 @@
+Scenario (gestionnaire pour la première fois)
+--Creation du compte gestionnaire
+--Connexion du gestionnaire
+--Creation des différentes Collection
+--Ajout des différents vêtements par collection
+--Creation des differents Abonnements
+--Affichage des differents compte existant l'instant.
+
+Scenario (client qui se connecte la premiere fois)
+--Creation du compte
+--Connexion
+--Lister Abonnement
+--Affectation abonnement
+--Lister Collection
+--Lister vetement
+--louer vetement 4
+--louer vetement 2
+--louer vetement 3
+
+A la fin de mon scenario le gestionnaire affiche les locations
+--lister location
